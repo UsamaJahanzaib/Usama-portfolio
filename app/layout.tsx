@@ -1,0 +1,3 @@
+import type {Metadata} from "next";import "./globals.css";import Nav from "../components/Nav";
+export const metadata:Metadata={title:"Usama Jahanzaib — AI Engineer",description:"AI Engineer building intelligent automations, AI agents, RAG systems and production AI applications."};
+export default function Layout({children}:{children:React.ReactNode}){return <html lang="en"><body><Nav/>{children}<footer className="border-t border-white/[.06]"><div className="mx-auto flex max-w-6xl justify-between px-5 py-7 text-xs text-zinc-600 lg:px-8"><span>© 2026 Usama Jahanzaib</span><span>AI Engineering · Automation · Agentic Systems</span></div></footer></body></html>}
