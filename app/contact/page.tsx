@@ -187,7 +187,7 @@ if (!emailResponse.ok) {
         {/* Contact Links */}
         <div className="space-y-4">
           <a
-            href="mailto:your.email@example.com"
+            href="mailto:usamajahanzaib81@gmail.com"
             className="glass block rounded-2xl p-7 transition hover:border-white/20"
           >
             <Mail />
@@ -195,12 +195,12 @@ if (!emailResponse.ok) {
             <h2 className="mt-8">Email</h2>
 
             <p className="mt-2 text-sm text-zinc-500">
-              your.email@example.com
+              usamajahanzaib81@gmail.com
             </p>
           </a>
 
           <a
-            href="https://linkedin.com/"
+            href="https://linkedin.com/in/usamajahanzaib"
             target="_blank"
             rel="noopener noreferrer"
             className="glass block rounded-2xl p-7 transition hover:border-white/20"
@@ -215,7 +215,7 @@ if (!emailResponse.ok) {
           </a>
 
           <a
-            href="https://github.com/"
+            href="https://github.com/UsamaJahanzaib/Usama-portfolio"
             target="_blank"
             rel="noopener noreferrer"
             className="glass block rounded-2xl p-7 transition hover:border-white/20"
